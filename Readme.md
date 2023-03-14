@@ -20,10 +20,20 @@ Table of contents
 
 <img title="content image" width="200px" height="200px"
      src="images/louvre_small.jpg" >
-<img title="style iamge" width="200px" height="200px"
+<img title="style image" width="200px" height="200px"
      src="images/grid400x400-offset-40x40.png" >
-<img title="2500 epochs" width="200px" height="200px"
+<img title="5000 epochs" width="200px" height="200px"
      src="samples/2023-03-13-picaso/image_05000.jpg" >
+
+
+### Horizontal [Full output directory](samples/2023-03-11-horizontal/)
+
+<img title="content image" width="200px" height="200px"
+     src="images/louvre_small.jpg" >
+<img title="style image" width="200px" height="200px"
+     src="images/grid400x400-5x400.jpg" >
+<img title="250 epochs" width="200px" height="200px"
+     src="samples/2023-03-11-horizontal/image_00250.jpg" >
 
 
 [mlstylestransfersource]:https://github.com/timtiemens/ml-style-transfer

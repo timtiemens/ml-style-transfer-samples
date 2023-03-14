@@ -7,7 +7,7 @@
     "output_dir_top": "outputs",
     "output_dir_this_run": "output0055",
     "content_image_filename": "images/louvre_small.jpg",
-    "style_image_filename": "images\\grid400x400-5x500.jpg",
+    "style_image_filename": "images/grid400x400-5x400.jpg",
     "print_layers": false,
     "adam_learning_rate": 0.05,
     "alpha": 10,

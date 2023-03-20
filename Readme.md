@@ -35,6 +35,15 @@ Table of contents
 <img title="250 epochs" width="200px" height="200px"
      src="samples/2023-03-11-horizontal/image_00250.jpg" >
 
+### Diagonal [Full output directory](samples/2023-03-18-diagonal)
+
+<img title="content image" width="200px" height="200px"
+     src="images/louvre_small.jpg" >
+<img title="style image" width="200px" height="200px"
+     src="images/band400x400-rotate45.png" >
+<img title="250 epochs" width="200px" height="200px"
+     src="samples/2023-03-18-diagonal/image_00250.jpg" >
+
 
 [mlstylestransfersource]:https://github.com/timtiemens/ml-style-transfer
 

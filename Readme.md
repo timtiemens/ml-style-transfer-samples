@@ -48,5 +48,3 @@ Table of contents
 
 ## Historical Samples
 
-
-

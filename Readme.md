@@ -2,7 +2,8 @@
 
 ----
 
-Sample outputs from https://github.com/timtiemens/ml-style-transfer
+Sample outputs from the ml-style-transfer source project at https://github.com/timtiemens/ml-style-transfer
+
 
 Because some of the combinations are fascinating,
 but should not be put in the original project source directory.
@@ -45,5 +46,7 @@ Table of contents
      src="samples/2023-03-18-diagonal/image_00250.jpg" >
 
 
-[mlstylestransfersource]:https://github.com/timtiemens/ml-style-transfer
+## Historical Samples
+
+
 

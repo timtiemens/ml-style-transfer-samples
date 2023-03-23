@@ -1,0 +1,39 @@
+{
+    "image_size": 400,
+    "vgg_weights_filename": "pretrained-model/vgg19_weights_tf_dim_ordering_tf_kernels_notop.h5",
+    "epochs": 251,
+    "print_epoch_every": 5,
+    "save_epoch_every": 250,
+    "output_dir_top": "outputs",
+    "output_dir_this_run": "output0077",
+    "content_image_filename": "images/louvre_small.jpg",
+    "style_image_filename": "images/starry_night_400x400.jpg",
+    "print_layers": false,
+    "adam_learning_rate": 0.05,
+    "alpha": 10,
+    "beta": 40,
+    "tf.random.seed": 272,
+    "style_layers": [
+        [
+            "block1_conv1",
+            0.2
+        ],
+        [
+            "block2_conv1",
+            0.2
+        ],
+        [
+            "block3_conv1",
+            0.2
+        ],
+        [
+            "block4_conv1",
+            0.2
+        ],
+        [
+            "block5_conv1",
+            0.2
+        ]
+    ],
+    "content_image_filename_large": "images/louvre.jpg"
+}

@@ -48,3 +48,12 @@ Table of contents
 
 ## Historical Samples
 
+
+### Starry [Full output directory](samples/2023-03-23-starry)
+
+<img title="content image" width="200px" height="200px"
+     src="images/louvre_small.jpg" >
+<img title="style image" width="200px" height="200px"
+     src="images/starry_night_400x400.jpg" >
+<img title="250 epochs" width="200px" height="200px"
+     src="samples/2023-03-23-starry/image_00250.jpg" >

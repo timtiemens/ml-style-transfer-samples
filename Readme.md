@@ -66,3 +66,12 @@ Table of contents
      src="images/spiral-rgb-400x400.png" >
 <img title="5000 epochs" width="200px" height="200px"
      src="samples/2023-03-24-spiral/image_05000.jpg" >
+
+### 50000-epochs [Full output directory](samples/2023-04-20-50000-epochs)
+
+<img title="content image" width="200px" height="200px"
+     src="images/louvre_small.jpg" >
+<img title="style image" width="200px" height="200px"
+     src="images/monet.jpg" >
+<img title="50000 epochs" width="200px" height="200px"
+     src="samples/2023-04-20-50000-epochs/image_50000.jpg" >
